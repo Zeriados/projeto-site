@@ -17,3 +17,14 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.466);
 }
+
+h1{
+    font:bolder 3em arial, helvetica, sans-serif;
+    text-align: center;
+    color: #231A33;
+}
+
+h2{
+    font:bolder 1.5em arial, helvetica, sans-serif;
+    color:#231A33;
+}
